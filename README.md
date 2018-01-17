@@ -13,4 +13,6 @@ vim /etc/asterisk/extensions_agendacopada.conf
 
 Para agendar, llamar al *1*
 
+En los internos que se requiera usar deben tener asignado el contexto correspondiente.
+
 
