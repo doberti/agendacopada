@@ -9,7 +9,6 @@ En el contexto [demo] debe incluir el contexto de la agendacopada:
 #include => extensions_agendacopada.conf
 
 [demo]
-
 include => agendacopada
 
 vim /etc/asterisk/extensions_agendacopada.conf
